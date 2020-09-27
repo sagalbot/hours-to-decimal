@@ -12,7 +12,7 @@
     },
     "devDependencies": {
         "@vue/compiler-sfc": "^3.0.0-rc.1",
-        "autoprefixer": "^10.0.1",
+        "autoprefixer": "9.x",
         "vite": "^1.0.0-rc.1"
     }
 }
